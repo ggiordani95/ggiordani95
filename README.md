@@ -1,7 +1,7 @@
 Hi, welcome to my profile 
-
 My name is Gustavo Giordani from Brazil and my passion is coding :D
 
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
