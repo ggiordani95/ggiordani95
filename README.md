@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggiordani95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -15,6 +13,9 @@
 </p>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggiordani95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 <div align="center">
   <a href="https://www.instagram.com/ggiordani_" target="_blank">
