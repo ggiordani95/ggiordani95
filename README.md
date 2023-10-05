@@ -1,5 +1,5 @@
 
-<p> My passion is coding :D <p>
+<p> Here is my favorite stack: <p>
 
 <p align="start">
   <a href="https://skillicons.dev">
