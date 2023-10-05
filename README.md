@@ -4,11 +4,11 @@
 
 ###
 
-<h3 align="center">Bem vindo ao meu perfil  👋</h3>
+<h3 align="center">Bem vindo ao meu perfil 👋</h3>
 
 ###
 
-<p> Here is my favorite stack: <p>
+<p align:"center"> Here is my favorite stack: <p>
 
 <p align="center">
   <a href="https://skillicons.dev">
