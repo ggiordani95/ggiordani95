@@ -1,5 +1,5 @@
 
-<h2> My passion is coding :D <h2>
+<p> My passion is coding :D <p>
 
 <p align="start">
   <a href="https://skillicons.dev">
