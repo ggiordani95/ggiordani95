@@ -8,8 +8,6 @@
 
 ###
 
-<p align:"center"> Here is my favorite stack: <p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwindcss,nodejs" />
