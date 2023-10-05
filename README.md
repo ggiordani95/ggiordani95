@@ -1,9 +1,18 @@
 <div align="start">
-  <h1 align="start">Olá, seja bem vindo!</h1>
+  <p align="start">
+    <h1>Olá, seja bem vindo!</h1>
+  </p>
+</div>
+
+###
+
+
+<div>
+  <p align="start"> :heavy_check_mark: Desenvolvedor Web/Mobile  </p>
 </div>
 
 <div>
-  :heavy_check_mark:
+  <p align="start"> :computer: Linguagens de Programação/Tecnologias Favoritas: </p>
 </div>
 
 
