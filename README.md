@@ -1,4 +1,7 @@
-<h1>Olá, seja bem vindo!</h1>
+<div align="start">
+  <h1 align="start">Olá, seja bem vindo!</h1>
+</div>
+
 
 
 
