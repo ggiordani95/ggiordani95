@@ -1,10 +1,14 @@
-Hi, welcome to my profile 
-My name is Gustavo Giordani from Brazil and my passion is coding :D
+
+<h2> My passion is coding :D <h3>
 
 
 ###
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,react,tailwindcss,node,nextjs" />
+  </a>
+</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
