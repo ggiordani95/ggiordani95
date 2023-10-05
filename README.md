@@ -27,9 +27,4 @@ My name is Gustavo Giordani from Brazil and my passion is coding :D
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-
-###
