@@ -26,7 +26,10 @@
 </p>
 </div>
 
+
 ###
+
+![ggiordani95's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ggiordani95&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 
 
