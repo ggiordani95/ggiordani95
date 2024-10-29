@@ -1,17 +1,10 @@
-<div align="start">
-  <p align="start">
-    <h1>Desenvolvedor Web / Mobile</h1>
-  </p>
-</div>
-
-###
 
 ###
 
 <div align="flex flex-row">
   <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,swift,react,tailwindcss,nodejs,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,swift,react,tailwindcss,nodejs,cpp,ps,figma" />
   </a>
 </p>
 </div>
