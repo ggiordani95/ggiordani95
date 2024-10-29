@@ -4,7 +4,7 @@
 <div align="flex flex-row">
   <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,go,swift,react,tailwindcss,nodejs,cpp,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,nodejs,cpp,go,swift" />
   </a>
 </p>
 </div>
